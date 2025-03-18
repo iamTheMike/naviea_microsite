@@ -5,6 +5,7 @@ import POSTCARD_2 from "./images/Postcard_2.jpg";
 // import POSTCARD_IG from "./images/Postcard_2_resize.jpg";
 import SHARE_PIC from './images/nevia_card.png'
 import POSTCARD_IG from "./images/nevia_card2.png";
+import POSTCARD_IG_01 from "./images/card_01.jpg";
 import POSTCARD_FB from "./images/Postcard_1_resize.jpg";
 import PRODUCT from "./images/product.png"
 import FRAME from './images/frame.png'
@@ -21,7 +22,7 @@ import FLOWER09 from './images/flower09.png'
 import FLOWER10 from './images/flower10.png'
 
 
-export { FLOWER01,FLOWER02,FLOWER03,FLOWER04,FLOWER05,FLOWER06,FLOWER07,FLOWER08,FLOWER09,FLOWER10,TEST_BG,SHARE_PIC,FRAME,PRODUCT,PAPER, CARD, POSTCARD, POSTCARD_2 , POSTCARD_IG, POSTCARD_FB};
+export { POSTCARD_IG_01, FLOWER01,FLOWER02,FLOWER03,FLOWER04,FLOWER05,FLOWER06,FLOWER07,FLOWER08,FLOWER09,FLOWER10,TEST_BG,SHARE_PIC,FRAME,PRODUCT,PAPER, CARD, POSTCARD, POSTCARD_2 , POSTCARD_IG, POSTCARD_FB};
 
 /////////////////////////////// Background ///////////////////////////////
 import BG from "./background/BG4_Snowflake.jpg";
